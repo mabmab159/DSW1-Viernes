@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/estilos.css" />
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos al curso</h1>
+    </header>
+    <nav>
+        <div class="menu">
+            <a class="menu-item">Inicio</a>
+            <a class="menu-item">Carreras</a>
+            <a class="menu-item">Becas</a>
+            <a class="menu-item">Escuelas</a>
+            <a class="menu-item">Cursos</a>
+            <a class="menu-item">Formulario</a>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <p>Cibertec - 2026</p>
+    </footer>
+</body>
+</html>
