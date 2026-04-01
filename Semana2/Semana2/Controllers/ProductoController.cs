@@ -130,5 +130,27 @@ namespace Semana2.Controllers
             ViewBag.CantidadTotalPaginas = cantidadTotalPaginas;
             return View(productos.Skip(cantidadRegistrosPorPagina * pagina).Take(cantidadRegistrosPorPagina));
         }
+
+        public IActionResult FiltrarPaginacion(string? descripcion, int pagina = 0)
+        {
+            IEnumerable<Producto> productos;
+            if (string.IsNullOrEmpty(descripcion))
+            {
+                productos = new List<Producto>();
+            }
+            else
+            {
+                productos = getProductosFilterByName(descripcion);
+            }
+            int cantidadRegistrosPorPagina = 10;
+            int cantidadTotalRegistros = productos.Count(); //100:10  -> 10 paginas| 104:10 -> 10 paginas + 1 pagina (4 elementos)
+            int cantidadTotalPaginas = cantidadTotalRegistros % cantidadRegistrosPorPagina == 0 ?
+                                        cantidadTotalRegistros / cantidadRegistrosPorPagina :
+                                        cantidadTotalRegistros / cantidadRegistrosPorPagina + 1;
+
+            ViewBag.PaginaActual = pagina;
+            ViewBag.CantidadTotalPaginas = cantidadTotalPaginas;
+            return View(productos.Skip(cantidadRegistrosPorPagina * pagina).Take(cantidadRegistrosPorPagina));
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\Desktop\\DWS1-Viernes\\Semana2\\Semana2\\Semana2.csproj": {}
+    "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\Semana2\\Semana2\\Semana2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\Desktop\\DWS1-Viernes\\Semana2\\Semana2\\Semana2.csproj": {
+    "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\Semana2\\Semana2\\Semana2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\DWS1-Viernes\\Semana2\\Semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\Semana2\\Semana2\\Semana2.csproj",
         "projectName": "Semana2",
-        "projectPath": "C:\\Users\\Miguel\\Desktop\\DWS1-Viernes\\Semana2\\Semana2\\Semana2.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\Semana2\\Semana2\\Semana2.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Desktop\\DWS1-Viernes\\Semana2\\Semana2\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\Semana2\\Semana2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
