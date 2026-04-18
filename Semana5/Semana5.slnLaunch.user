@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Semana5\\Semana5.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Aw5\\Aw5.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

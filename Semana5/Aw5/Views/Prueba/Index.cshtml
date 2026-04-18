@@ -1,0 +1,24 @@
+﻿<h1>Prueba de GRPC</h1>
+<form method="post" asp-action="Index">
+    <table>
+        <tr>
+            <td>Ingrese el codigo</td>
+            <td><input name="code" value="@ViewBag.code"/></td>
+        </tr>
+        <tr>
+            <td>Ingrese el nombre</td>
+            <td><input name="name" value="@ViewBag.name"/></td>
+        </tr>
+        <tr>
+            <td>Ingrese el apellido</td>
+            <td><input name="surname" value="@ViewBag.surname" /></td>
+        </tr>
+        <tr>
+            <td><button>Aceptar</button></td>
+        </tr>
+    </table>
+</form>
+
+<div>
+    @ViewBag.mensaje
+</div>
