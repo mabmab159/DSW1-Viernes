@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|c:\\users\\miguel\\desktop\\dsw1-viernes\\semana6\\semana6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|solutionrelative:semana6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|c:\\users\\miguel\\desktop\\dsw1-viernes\\semana6\\semana6\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|solutionrelative:semana6\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|c:\\users\\miguel\\desktop\\dsw1-viernes\\semana6\\semana6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67D4EF8-53B1-46C1-A38E-5DE3A7B16EA2}|semana6\\semana6.csproj|solutionrelative:semana6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\Program.cs",
+              "RelativeDocumentMoniker": "semana6\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\Program.cs",
+              "RelativeToolTip": "semana6\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T03:23:36.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chat.js",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\wwwroot\\js\\Chat.js",
+              "RelativeDocumentMoniker": "semana6\\wwwroot\\js\\Chat.js",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\wwwroot\\js\\Chat.js",
+              "RelativeToolTip": "semana6\\wwwroot\\js\\Chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-22T03:04:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "semana6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\DSW1-Viernes\\semana6\\semana6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "semana6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T03:03:17.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-2">Usuario</div>
+        <div class="col-6"><input id="userInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-2">Mensaje</div>
+        <div class="col-6"><input id="messageInput" /></div>
+    </div>
+    <div class="row">
+        <div class="col-8"><input type="button" id="sendButton" value="Enviar Mensaje" /></div>
+    </div>
+
+    <!--Generar el chat con el servidor-->
+    <div class="row">
+        <div class="col-12"><div id="messagesList"></div></div>
+    </div>
+</div>
+
+<script src="~/lib/microsoft-signalr/signalr.js"></script>
+<script src="~/js/Chat.js"></script>
